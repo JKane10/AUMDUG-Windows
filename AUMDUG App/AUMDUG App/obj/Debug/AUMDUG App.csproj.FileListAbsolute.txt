@@ -1,0 +1,19 @@
+c:\users\joshua\documents\visual studio 2013\Projects\AUMDUG App\AUMDUG App\Bin\Debug\Assets\ApplicationIcon.png
+c:\users\joshua\documents\visual studio 2013\Projects\AUMDUG App\AUMDUG App\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+c:\users\joshua\documents\visual studio 2013\Projects\AUMDUG App\AUMDUG App\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+c:\users\joshua\documents\visual studio 2013\Projects\AUMDUG App\AUMDUG App\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+c:\users\joshua\documents\visual studio 2013\Projects\AUMDUG App\AUMDUG App\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+c:\users\joshua\documents\visual studio 2013\Projects\AUMDUG App\AUMDUG App\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+c:\users\joshua\documents\visual studio 2013\Projects\AUMDUG App\AUMDUG App\Bin\Debug\AUMDUG App.dll
+c:\users\joshua\documents\visual studio 2013\Projects\AUMDUG App\AUMDUG App\Bin\Debug\AUMDUG App.pdb
+c:\users\joshua\documents\visual studio 2013\Projects\AUMDUG App\AUMDUG App\Bin\Debug\AppManifest.xaml
+c:\users\joshua\documents\visual studio 2013\Projects\AUMDUG App\AUMDUG App\Bin\Debug\Properties\WMAppManifest.xml
+c:\users\joshua\documents\visual studio 2013\Projects\AUMDUG App\AUMDUG App\Bin\Debug\AUMDUG_App_Debug_AnyCPU.xap
+c:\users\joshua\documents\visual studio 2013\Projects\AUMDUG App\AUMDUG App\obj\Debug\App.g.cs
+c:\users\joshua\documents\visual studio 2013\Projects\AUMDUG App\AUMDUG App\obj\Debug\MainPage.g.cs
+c:\users\joshua\documents\visual studio 2013\Projects\AUMDUG App\AUMDUG App\obj\Debug\AUMDUG App.g.resources
+c:\users\joshua\documents\visual studio 2013\Projects\AUMDUG App\AUMDUG App\obj\Debug\AUMDUG_App.Resources.AppResources.resources
+c:\users\joshua\documents\visual studio 2013\Projects\AUMDUG App\AUMDUG App\obj\Debug\AUMDUG App.csproj.GenerateResource.Cache
+c:\users\joshua\documents\visual studio 2013\Projects\AUMDUG App\AUMDUG App\obj\Debug\AUMDUG App.dll
+c:\users\joshua\documents\visual studio 2013\Projects\AUMDUG App\AUMDUG App\obj\Debug\AUMDUG App.pdb
+c:\users\joshua\documents\visual studio 2013\Projects\AUMDUG App\AUMDUG App\obj\Debug\XapCacheFile.xml
